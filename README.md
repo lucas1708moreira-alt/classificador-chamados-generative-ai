@@ -1,4 +1,4 @@
-Case QuantumFinance: Classificador de Chamados com Generative AI
+#Case QuantumFinance: Classificador de Chamados com Generative AI
 
 Este projeto foi desenvolvido como parte integrante da disciplina de Generative AI do MBA em Data Science e IA na FIAP. O objetivo é implementar e comparar diferentes abordagens para classificação de chamados financeiros, utilizando desde técnicas avançadas de Prompt Engineering até arquiteturas de Retrieval-Augmented Generation (RAG).
 
